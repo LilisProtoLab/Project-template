@@ -66,7 +66,7 @@ You can modify an reuse as you like.
 The project team appreciates your suggestions or examples for enhancing the repository, but your consistent documentation of your project is the best gift to the world. Hopefully, this template could make that a bit easier for you. 
 
 ### (How to cite:)
-_Additionally, you can specify how other can cite your project._
+_Additionally, you can specify how others can cite your project._
 
 ## (Funding)
 _Be kind to your funders and mention their support visibly and consistently. They also need to show their resources are wisely spent._
@@ -77,8 +77,3 @@ This template can be copied free of charge.
   <img src="./Documents/Images/lpl_sharing.jpg" alt="lpl sharing" style="width: 30%;"/>
   <figcaption>Figure: LPL shop front with current and future letters<figcaption>
 </div>
-
-![LPL sharing image](./Documents/Images/lpl_sharing.jpg)
-
-
-[Hardware]: sdfs
