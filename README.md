@@ -73,7 +73,12 @@ _Be kind to your funders and mention their support visibly and consistently. The
 
 This template can be copied free of charge. 
 
-![LPL sharing image](./Docs/Images/lpl_sharing.jpg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Documents/Images/lpl_sharing.jpg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption>Figure: LPL shop front with current and future letters<figcaption>
+</div>
+
+![LPL sharing image](./Documents/Images/lpl_sharing.jpg)
 
 
 [Hardware]: sdfs
